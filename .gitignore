@@ -1,0 +1,11 @@
+venv
+env
+*.pyc
+static
+.env
+.DS_Store
+emailaddress.txt
+*.DS_Store
+emailpw.py
+client_secret.json
+qindex/**
